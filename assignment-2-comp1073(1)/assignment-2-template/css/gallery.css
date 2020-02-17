@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  background-color: antiquewhite;
+}
+ul li {
+  list-style: none;
+  display: inline;
+}
+
+figure img {
+  border: 4px solid black;
+}
